@@ -1,5 +1,4 @@
-![Sans titre1](https://user-images.githubusercontent.com/90135935/142790964-bc542a4d-6125-4009-8a93-119c9b4eb3d8.png)
-﻿# TechNewsAppBackend
+# TechNewsAppBackend
 
 ## About me  
 
@@ -63,6 +62,10 @@ open postman and use those url
 
 
 ![Sans titre](https://user-images.githubusercontent.com/90135935/142781987-b0cef70d-0fd2-43c3-96d5-bf62fee54c20.png)
+![Sans titre1](https://user-images.githubusercontent.com/90135935/142791050-7579c940-373c-4ec0-b9df-d4d3e476cd17.png)
+![Sans titre2](https://user-images.githubusercontent.com/90135935/142791123-1227cbcb-dd0b-426e-83fc-bd547efb7942.png)
+![Sans titre4](https://user-images.githubusercontent.com/90135935/142791180-49ab34e1-1242-4495-9347-3c65ad7cb119.png)
+![Sans titre5](https://user-images.githubusercontent.com/90135935/142791229-9f81887a-1d8d-49d3-b281-55094c6dd0ed.png)
 
 
 
