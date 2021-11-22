@@ -66,6 +66,8 @@ open postman and use those url
 ![Sans titre2](https://user-images.githubusercontent.com/90135935/142791123-1227cbcb-dd0b-426e-83fc-bd547efb7942.png)
 ![Sans titre4](https://user-images.githubusercontent.com/90135935/142791180-49ab34e1-1242-4495-9347-3c65ad7cb119.png)
 ![Sans titre5](https://user-images.githubusercontent.com/90135935/142791229-9f81887a-1d8d-49d3-b281-55094c6dd0ed.png)
+![Sans titre6](https://user-images.githubusercontent.com/90135935/142792108-ff586f4c-c9d2-4984-9a46-2662ad2fe139.png)
+
 
 
 
